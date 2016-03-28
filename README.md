@@ -1,9 +1,9 @@
 # DISMATH_ProjectBonus_DelizoDarwin
 
 - (DESIGNER)
-- ![PrintScreen](Picture1.png)
+- ![PrintScreen](picture1.png)
 </br></br>
 
 - (BLOCKS)
-- ![PrintScreen](Picture2.png)
+- ![PrintScreen](picture2.png)
 </br></br>
